@@ -7,3 +7,6 @@
 
 # VideoExpress AI CLI Checker
 <img width="1039" height="416" alt="image" src="https://github.com/user-attachments/assets/7ca9bb24-360e-4fee-8269-2da994fd98b6" />
+
+# Hits.txt 
+<img width="577" height="496" alt="image" src="https://github.com/user-attachments/assets/698973ae-fd2f-4957-b84d-02984bdbde67" />
